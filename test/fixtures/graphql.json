@@ -1,0 +1,2439 @@
+[
+  {
+    "data": {
+      "user": {
+        "createdAt": "2016-05-26T07:18:17Z",
+        "followers": {
+          "totalCount": 36
+        },
+        "contributionsCollection": {
+          "totalCommitContributions": 350,
+          "totalPullRequestContributions": 3,
+          "contributionCalendar": {
+            "totalContributions": 593
+          }
+        },
+        "organizations": {
+          "totalCount": 6
+        },
+        "repositories": {
+          "totalCount": 104,
+          "pageInfo": {
+            "hasNextPage": true,
+            "endCursor": "Y3Vyc29yOnYyOpHOU3bntQ=="
+          },
+          "nodes": [
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 4166,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 4,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 126370,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 5654,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 227,
+                    "node": {
+                      "name": "Shell",
+                      "color": "#89e051"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 2334,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 4,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 6423,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 1191,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 2587,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 6212,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 395,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 4,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 123718,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 5628,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 10189,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 2444,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 13760,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 1740,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 1479,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 2008,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 620776,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 10932,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 5389,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 59,
+                    "node": {
+                      "name": "Ruby",
+                      "color": "#701516"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 6566,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 1965,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 1303,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 19759,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 9523,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 671,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 19845,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 706,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 20044,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 4644,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 887,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 12976,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 809,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 243,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 11233,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 1295,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 1576,
+                    "node": {
+                      "name": "Ruby",
+                      "color": "#701516"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 144343,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 7266,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 4825,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 4610,
+                    "node": {
+                      "name": "SCSS",
+                      "color": "#c6538c"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 5732,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 5043,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 20027,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 47,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 3763,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 3500,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 3394,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 922,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 11778,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 2050,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 1732,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 1621,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 4333195,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 1093,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 164,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 19388,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 4,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 133918,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 1850,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 1593,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 1250,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 8520,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 30682,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 8046,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 2997,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 18755,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 3169,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 1928,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 1651,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 4269,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 3184,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 4069,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 9350,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 1850,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 1539,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 4,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 7903,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 1711,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 1328,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 37131,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 22846,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 15181,
+                    "node": {
+                      "name": "SCSS",
+                      "color": "#c6538c"
+                    }
+                  },
+                  {
+                    "size": 2178,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 21315,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 2434,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 3,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 11716,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 677,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 2108,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 735,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 598,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 167223,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 11504,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 7468,
+                    "node": {
+                      "name": "PHP",
+                      "color": "#4F5D95"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 146440,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 1036,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 104226,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 10666,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 6930,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 1138,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 3,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 2916,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 168685,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 5581,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 180,
+                    "node": {
+                      "name": "Shell",
+                      "color": "#89e051"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 13955,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 725,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 2008,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 725,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 36811,
+                    "node": {
+                      "name": "C#",
+                      "color": "#7355dd"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 106537,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 4748,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 180,
+                    "node": {
+                      "name": "Shell",
+                      "color": "#89e051"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 110229,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 4997,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 193,
+                    "node": {
+                      "name": "Shell",
+                      "color": "#89e051"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 3075,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 733,
+                    "node": {
+                      "name": "SCSS",
+                      "color": "#c6538c"
+                    }
+                  },
+                  {
+                    "size": 444,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 317,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 24079,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 725,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 13292,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 16821,
+                    "node": {
+                      "name": "C++",
+                      "color": "#f34b7d"
+                    }
+                  },
+                  {
+                    "size": 16728,
+                    "node": {
+                      "name": "Dart",
+                      "color": "#00B4AB"
+                    }
+                  },
+                  {
+                    "size": 9116,
+                    "node": {
+                      "name": "CMake",
+                      "color": "#DA3434"
+                    }
+                  },
+                  {
+                    "size": 734,
+                    "node": {
+                      "name": "C",
+                      "color": "#555555"
+                    }
+                  },
+                  {
+                    "size": 404,
+                    "node": {
+                      "name": "Swift",
+                      "color": "#F05138"
+                    }
+                  },
+                  {
+                    "size": 135,
+                    "node": {
+                      "name": "Kotlin",
+                      "color": "#A97BFF"
+                    }
+                  },
+                  {
+                    "size": 38,
+                    "node": {
+                      "name": "Objective-C",
+                      "color": "#438eff"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 821,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 168,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 111,
+                    "node": {
+                      "name": "Liquid",
+                      "color": "#67b8de"
+                    }
+                  },
+                  {
+                    "size": 66,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 9700,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 751,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 11032,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 718,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 1705,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 939,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 5428,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 2121,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 72707,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 17980,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 5386,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 4018,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 3999,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 1039,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 84,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 6,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 17893,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 1572,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 61,
+                    "node": {
+                      "name": "Batchfile",
+                      "color": "#C1F12E"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 116107,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 5654,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 191,
+                    "node": {
+                      "name": "Shell",
+                      "color": "#89e051"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": []
+              }
+            },
+            {
+              "stargazerCount": 4,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 17498,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 1134,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 8876,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 8583,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 4058,
+                    "node": {
+                      "name": "EJS",
+                      "color": "#a91e50"
+                    }
+                  },
+                  {
+                    "size": 1003,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 3474,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 2391,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 131,
+                    "node": {
+                      "name": "Shell",
+                      "color": "#89e051"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 3539,
+                    "node": {
+                      "name": "HCL",
+                      "color": "#844FBA"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 5721,
+                    "node": {
+                      "name": "EJS",
+                      "color": "#a91e50"
+                    }
+                  },
+                  {
+                    "size": 4986,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 135,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 8170,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 820,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 759,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 173,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 6961,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 114469,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 601,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 17806,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 3467,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 454,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 96,
+                    "node": {
+                      "name": "SCSS",
+                      "color": "#c6538c"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 157207,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 5628,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 6949,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 752,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 603,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 252,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 5291,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 3,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 6608,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 3992,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 131,
+                    "node": {
+                      "name": "Shell",
+                      "color": "#89e051"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 5856,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 443,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  },
+                  {
+                    "size": 290,
+                    "node": {
+                      "name": "SCSS",
+                      "color": "#c6538c"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 673,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 606,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 131,
+                    "node": {
+                      "name": "Shell",
+                      "color": "#89e051"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 3421,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 40,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 3725,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 561,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 61,
+                    "node": {
+                      "name": "Batchfile",
+                      "color": "#C1F12E"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 6072,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 5206,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 2367,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 166607,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 11504,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 2,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 542359,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 10852,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 5407,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 5133,
+                    "node": {
+                      "name": "SCSS",
+                      "color": "#c6538c"
+                    }
+                  },
+                  {
+                    "size": 532,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 10964,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 1780,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 174,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 5570,
+                    "node": {
+                      "name": "Java",
+                      "color": "#b07219"
+                    }
+                  },
+                  {
+                    "size": 97,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 30293,
+                    "node": {
+                      "name": "MDX",
+                      "color": "#fcb32c"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 227265,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 14605,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 11035,
+                    "node": {
+                      "name": "EJS",
+                      "color": "#a91e50"
+                    }
+                  },
+                  {
+                    "size": 388,
+                    "node": {
+                      "name": "Dockerfile",
+                      "color": "#384d54"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 55143,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 3841,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 1795,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 1,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 89845,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 53432,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 5473,
+                    "node": {
+                      "name": "Dockerfile",
+                      "color": "#384d54"
+                    }
+                  },
+                  {
+                    "size": 830,
+                    "node": {
+                      "name": "Shell",
+                      "color": "#89e051"
+                    }
+                  },
+                  {
+                    "size": 559,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  },
+                  {
+                    "size": 481,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 1920578,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "user": {
+        "createdAt": "2016-05-26T07:18:17Z",
+        "followers": {
+          "totalCount": 36
+        },
+        "contributionsCollection": {
+          "totalCommitContributions": 350,
+          "totalPullRequestContributions": 3,
+          "contributionCalendar": {
+            "totalContributions": 593
+          }
+        },
+        "organizations": {
+          "totalCount": 6
+        },
+        "repositories": {
+          "totalCount": 104,
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "Y3Vyc29yOnYyOpHOViw6-Q=="
+          },
+          "nodes": [
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 83592,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 674784,
+                    "node": {
+                      "name": "TypeScript",
+                      "color": "#3178c6"
+                    }
+                  },
+                  {
+                    "size": 10778,
+                    "node": {
+                      "name": "CSS",
+                      "color": "#663399"
+                    }
+                  },
+                  {
+                    "size": 1489,
+                    "node": {
+                      "name": "Dockerfile",
+                      "color": "#384d54"
+                    }
+                  },
+                  {
+                    "size": 180,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 1502,
+                    "node": {
+                      "name": "HTML",
+                      "color": "#e34c26"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "stargazerCount": 0,
+              "languages": {
+                "edges": [
+                  {
+                    "size": 17995,
+                    "node": {
+                      "name": "JavaScript",
+                      "color": "#f1e05a"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+]
